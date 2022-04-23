@@ -1,6 +1,6 @@
 # Hello there ![chika][1]
 
-[![Anurag's GitHub stats][3]](https://github.com/ya-makariy)![chikaf][2]
+[![My GitHub stats][3]](https://github.com/ya-makariy)![chikaf][2]
 
 [1]: ./resources/chika.gif
 [2]: ./resources/chika-fujiwara-chika.gif
